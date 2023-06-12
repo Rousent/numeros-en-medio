@@ -15,7 +15,7 @@ public class NumerosTest {
         int inicio = 1;
         int termino = 5;
 
-        List<Integer> esperado = List.of(3);
+        List<Integer> esperado = List.of(2,4);
         List<Integer> resultado = Numeros.enMedioDe(inicio, termino);
 
         Assert.assertEquals(esperado, resultado);
@@ -26,7 +26,7 @@ public class NumerosTest {
         int inicio = 5;
         int termino = 10;
 
-        List<Integer> esperado = List.of(7,9);
+        List<Integer> esperado = List.of(6,8);
         List<Integer> resultado = Numeros.enMedioDe(inicio, termino);
 
         Assert.assertEquals(esperado, resultado);

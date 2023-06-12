@@ -8,7 +8,7 @@ public class App {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("========[Contando numeros]========");
+        System.out.println("========[Contando numeros pares]========");
 
         System.out.print("Inicio: ");
         int inicio = sc.nextInt();
@@ -18,9 +18,9 @@ public class App {
 
         System.out.println("Imprimiendo:");
 
-        // Oteniendo los numeros de en medio.
+        // Oteniendo los numeros PARES de en medio.
         List<Integer> enMedio = Numeros.enMedioDe(inicio, termino);
-        //Imprimir cada numero en la lista de numeros de en medio.
+        //Imprimir cada numero en la lista de numeros PARES de en medio.
         for (int numero : enMedio) {
             System.out.println(numero);
         }

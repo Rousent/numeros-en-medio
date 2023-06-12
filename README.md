@@ -2,6 +2,8 @@
 
 Aplicación de linea de comandos que imprime los numeros enteros entre el primer numero insertado y el segundo.
 
+Versión de la aplicación: ***0.1***
+
 Repositorio creado por Oliver Cruz Dominguez
 
 ## Tabla de contenido

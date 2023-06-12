@@ -6,6 +6,8 @@ Versión de la aplicación: ***0.1***
 
 Repositorio creado por Oliver Cruz Dominguez
 
+Este texto se encuentra en la rama Develop
+
 ## Tabla de contenido
 
 - :wrench: [Configuración del proyecto](#configuración-del-proyecto)

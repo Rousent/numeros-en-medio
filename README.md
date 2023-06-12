@@ -4,6 +4,8 @@ Aplicación de linea de comandos que imprime los numeros enteros entre el primer
 
 Repositorio creado por Oliver Cruz Dominguez
 
+Este texto se encuentra en la rama Develop
+
 ## Tabla de contenido
 
 - :wrench: [Configuración del proyecto](#configuración-del-proyecto)
